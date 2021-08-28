@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 I am Andrew Fung (he/him)
 
 Senior in Aerospace Engineering at Iowa State University
