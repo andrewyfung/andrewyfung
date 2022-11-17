@@ -1,9 +1,8 @@
 ### Hello there 👋
 I am Andrew Fung (he/him)
 
-Senior in Aerospace Engineering at Iowa State University
+Aerospace Engineering Graduate Student at Iowa State University
 
-Currently learning how to actually use GitHub
 <!--
 **andrewyfung/andrewyfung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
